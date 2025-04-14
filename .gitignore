@@ -1,0 +1,8 @@
+node_modules/
+.env
+temp/
+*.aab
+*.apks
+*.apk
+.DS_Store
+.vercel
